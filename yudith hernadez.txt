@@ -1,1 +1,2 @@
 Mi primer ejemplo  con GIT
+modificado el archivo
